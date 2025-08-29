@@ -15,11 +15,11 @@ chmod +x install-vscode-extensions.sh
 ### 2. Run the installer
 ./install-vscode-extensions.sh
 
-
-
+-
+-
 ---
-
-
+-
+-
 
 ## 🦀 Rust Extensions
 
@@ -95,13 +95,9 @@ chmod +x install-vscode-extensions.sh
 
 - **[JSON Tools](https://marketplace.visualstudio.com/items?itemName=eriklynd.json-tools)** – Format and validate JSON files.
 
-
-
-
+-
 ---
-
-
-
+-
 
 ### PRAZVAL.COM
 > FEAR NOTHING

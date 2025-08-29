@@ -10,7 +10,7 @@ code --install-extension vadimcn.vscode-lldb
 code --install-extension aaron-bond.better-comments
 code --install-extension rust-lang.rust
 
-# General Programming Extensions
+# 📦 General Programming Extensions
 code --install-extension eamodio.gitlens
 code --install-extension christian-kohler.path-intellisense
 code --install-extension BracketPairColorDLW.bracket-pair-color-dlw
