@@ -2,15 +2,17 @@
 
 A curated list of the best VS Code extensions for **Rust**, **general programming** and **embedded/no_std/ESP work**
 
+
 ---
+
 
 > Install all VS Code extensions in one go:
 
 
-# 1. Make the script executable
+### 1. Make the script executable
 chmod +x install-vscode-extensions.sh
 
-# 2. Run the installer
+### 2. Run the installer
 ./install-vscode-extensions.sh
 
 ---
@@ -89,7 +91,13 @@ chmod +x install-vscode-extensions.sh
 
 - **[JSON Tools](https://marketplace.visualstudio.com/items?itemName=eriklynd.json-tools)** – Format and validate JSON files.
 
+
+
+
 ---
+
+
+
 
 # PRAZVAL.COM
 ## FEAR NOTHING
