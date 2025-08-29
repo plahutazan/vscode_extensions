@@ -15,7 +15,11 @@ chmod +x install-vscode-extensions.sh
 ### 2. Run the installer
 ./install-vscode-extensions.sh
 
+
+
 ---
+
+
 
 ## 🦀 Rust Extensions
 
@@ -45,7 +49,7 @@ chmod +x install-vscode-extensions.sh
 
 ---
 
-## General Programming Extensions
+## 📦 General Programming Extensions
 
 - **[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)** – Supercharged Git integration.
 
@@ -99,5 +103,5 @@ chmod +x install-vscode-extensions.sh
 
 
 
-# PRAZVAL.COM
-## FEAR NOTHING
+### PRAZVAL.COM
+> FEAR NOTHING
