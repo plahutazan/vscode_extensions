@@ -34,4 +34,4 @@ code --install-extension tamasfe.even-better-toml
 code --install-extension redhat.vscode-yaml
 code --install-extension eriklynd.json-tools
 
-echo "Installed with ❤️ by prazval.com"
+echo "Installed with ❤️ - by prazval.com"
