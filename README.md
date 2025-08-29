@@ -6,7 +6,7 @@ A curated list of the best VS Code extensions for **Rust**, **general programmin
 
 > Install all VS Code extensions in one go:
 
-```bash
+
 # 1. Make the script executable
 chmod +x install-vscode-extensions.sh
 
@@ -88,6 +88,8 @@ chmod +x install-vscode-extensions.sh
 - **[YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)** – Great for Docker/Kubernetes configs.
 
 - **[JSON Tools](https://marketplace.visualstudio.com/items?itemName=eriklynd.json-tools)** – Format and validate JSON files.
+
+---
 
 # PRAZVAL.COM
 ## FEAR NOTHING
